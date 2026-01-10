@@ -91,5 +91,3 @@ const simpleLightBox = new SimpleLightbox('.gallery li a', {
   captionsData: 'alt',
   captionDelay: 250
 });
-
-
